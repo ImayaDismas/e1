@@ -11,13 +11,21 @@ h1{
     padding-top: 50px;
 }
 header{
-    margin-top:-47px;
+    margin-top:-60px;
     background:black;
     height:187px;
 }
 header p{
     color:darkgrey;
     margin-top: -105px;
-    font-size: 25px;
+    font-size: 20px;
     margin-left:60%;
+}
+.home{
+    background-image: url("assets/big_img.jpg"); 
+    background-repeat: no-repeat;
+    width:960px;
+    padding-left: 30px;
+  padding-right: 30px;
+    
 }
