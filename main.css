@@ -94,4 +94,27 @@ header p{
     width: 30%;
     height: auto;
 }
-
+.container1{
+    background-color:#fff;
+    background-size: cover;
+    height:580px;
+    width:100%;
+    margin-top: 30px;
+}
+.column1{
+    margin-top: 50px;
+    margin-bottom: 22px;
+    width:45%;
+    margin-left: 14px;
+    margin-right: 14px;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 40px;
+    color: grey;
+    font-weight:100;
+    font-size: 23px;
+}
+.column1 img{
+    width: 100%;
+    height: auto;
+}
