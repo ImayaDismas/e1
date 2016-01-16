@@ -69,3 +69,29 @@ header p{
     margin-top: 14px;
     color: #fff;
 }
+.container{
+    background-color:#fff;
+    background-size: cover;
+    height:480px;
+    width:100%;
+    margin-top: 30px;
+}
+.column{
+    margin-top: 50px;
+    margin-bottom: 22px;
+    width:30%;
+    margin-left: 14px;
+    margin-right: 14px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    line-height: 40px;
+    color: grey;
+    font-weight:100;
+    font-size: 23px;
+}
+.column img{
+    width: 30%;
+    height: auto;
+}
+
