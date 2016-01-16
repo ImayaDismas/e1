@@ -8,24 +8,32 @@ h1{
 .margin{
     margin-left: 2%;
     color:#e6c032;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 header{
-    margin-top:-60px;
-    background:black;
-    height:187px;
+    position: fixed;
+    margin-top:-65px;
+    background:#484848;
+    height:200px;
+    width: 100%;
+    
 }
 header p{
     color:darkgrey;
-    margin-top: -105px;
+    margin-top: -110px;
     font-size: 20px;
     margin-left:60%;
 }
 .home{
     background-image: url("assets/big_img.jpg"); 
     background-repeat: no-repeat;
-    width:960px;
-    padding-left: 30px;
-  padding-right: 30px;
+    width:100%;
+    background-size:contain;
+    height: 600px;
     
+    background-position: center;
+    padding-top: 280px;
+}
+.home p{
+    margin-top: -110px;
 }
