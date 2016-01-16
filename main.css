@@ -149,3 +149,17 @@ header p{
     font-weight:100;
     font-size: 23px;
 }
+.container4{
+    background-color:#484848;
+    background-size: cover;
+    height:180px;
+    width:100%;
+    margin-top: 30px;
+}
+.column4 h3{
+    margin-top: 30px;
+    color:#e6c032;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+}
